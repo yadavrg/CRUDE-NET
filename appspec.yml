@@ -1,5 +1,5 @@
 version: 0.0
 os: windows
 files:
-  - source: \crude-net-rad\WebApplication2\WebApplication2
-    destination: c:\inetpub\wwwroot
+  - source:\crude-net-rad\WebApplication2\WebApplication2
+    destination:c:\inetpub\wwwroot
